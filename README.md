@@ -12,13 +12,13 @@ Welcome to the Coffee Sales Dashboard! This dashboard is created using Excel to 
 6. Sales of Different Coffee Types Each Month: Compare how different coffee types perform each month.
 7. Monthly Sales of Different Coffee Types: See a bar chart of monthly sales for each coffee type.
 # Data Insights
-Total Revenue: $30,592.94
-Coffee Types Available: 8
-Payment Methods:
-Cash: 10%
-Card: 90%
-Top Revenue-Generating Coffee: Latte
-Sales Trend: Sales peaked in May.
+1. Total Revenue: $30,592.94
+2. Coffee Types Available: 8
+3. Payment Methods:
+a. Cash: 10%
+b. Card: 90%
+6. Top Revenue-Generating Coffee: Latte
+7. Sales Trend: Sales peaked in May.
 # How to Use
 Open the Dashboard File: Download and open the Excel file containing the dashboard.
 View Key Metrics: Check out the total revenue and the number of coffee types at the top.
