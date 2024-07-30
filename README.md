@@ -14,11 +14,11 @@ Welcome to the Coffee Sales Dashboard! This dashboard is created using Excel to 
 # Data Insights
 Total Revenue: $30,592.94
 Coffee Types Available: 8
->> Payment Methods:
+Payment Methods:
 Cash: 10%
 Card: 90%
->> Top Revenue-Generating Coffee: Latte
->> Sales Trend: Sales peaked in May.
+Top Revenue-Generating Coffee: Latte
+Sales Trend: Sales peaked in May.
 # How to Use
 Open the Dashboard File: Download and open the Excel file containing the dashboard.
 View Key Metrics: Check out the total revenue and the number of coffee types at the top.
